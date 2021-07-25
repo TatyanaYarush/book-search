@@ -35,7 +35,6 @@ const LoginForm = () => {
         throw new Error('something went wrong!');
       }
 
-      // const { token, user } = await response.json();
       console.log(data.user);
       Auth.login(data.login.token);
     } catch (err) {
