@@ -66,12 +66,19 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 ```
 
 ## Screenshots
+Login screen           |  Users
+:-------------------------:|:-------------------------:
+![login screen](https://user-images.githubusercontent.com/70031550/126906400-9ce9aa2e-ce35-4a90-ad2f-1d38261c60dc.JPG)  |  ![users](https://user-images.githubusercontent.com/70031550/126906412-2919d133-45d9-4a87-9963-6b452d1b7b54.JPG)
+
+Search screen           |  Save books screen
+:-------------------------:|:-------------------------:
+![search screen](https://user-images.githubusercontent.com/70031550/126906407-df7ea3c4-66f0-41f7-bc80-129200c8cfd1.JPG)  |  ![save books screen](https://user-images.githubusercontent.com/70031550/126906411-291e4d53-0a1e-4cb7-ba88-4d653b98642a.JPG)
 
 
 ## Dependencies
 Server           |  Client
 :-------------------------:|:-------------------------:
-![env](https:..)  | ![ecommerce_db](https:..)
+![server](https://user-images.githubusercontent.com/70031550/126906380-603bcd7f-2c18-49cb-8039-f7c484cacbf6.JPG)  | ![client](https://user-images.githubusercontent.com/70031550/126906389-1e14fa68-7926-4ee3-bded-5c76683b01d9.JPG)
 
 
 ### :information_source: Resource 
